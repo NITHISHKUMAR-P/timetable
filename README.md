@@ -92,6 +92,16 @@ Execute the program
              <td align="center">-</td>
          </tr>
       </table>
+      <br>19EY701-Soft Skills-Ms.Sneha Priya P</br>
+<br>19MA221-Linear Algebra Laboratory-Ms.Archana S H</br>
+<br>19MA220-Mathematics for Artificial Intelligence-Ms.Archana S H</br>
+<br>19AI402-Web Technology Laboratory-Mr.Karthi Govindharaju</br>
+<br>19AI302-Engineering Design and Modeling-Mr.Sridhar S</br>
+<br>19AI303-Engineering Mechanics and Product Development-Mr.Sridhar S</br>
+<br>19AI401-Fundamentals of Web Technology-Mr.Karthi Govindharaju</br>
+<br>19AI301-Python Programming-Ms.Archana S H</br>
+<br>19MC802-Environmental Science-Ms.Vijaya K.S</br>
+<br>ECA051-AD-Mentoring-Ms.Niha K</br>
       
    </body>
 </html>
