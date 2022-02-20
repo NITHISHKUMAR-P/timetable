@@ -111,8 +111,9 @@ Execute the program
 
 
 ~~~
-# OUPUT
+# OUTPUT
 ![GitHub logo](timetableupdated.png)
-
+# RESULT
+A webpage has been created to display my timetable.
 
  
